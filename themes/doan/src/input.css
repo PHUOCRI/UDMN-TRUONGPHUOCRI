@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles can be added below */
+@layer components {
+    .btn {
+        @apply inline-flex items-center justify-center px-6 py-2 rounded-full font-medium transition-colors duration-200;
+    }
+    
+    .btn-primary {
+        @apply bg-primary text-white hover:bg-opacity-90;
+    }
+    
+    .section-title {
+        @apply text-center mb-10;
+    }
+    
+    .section-title h2 {
+        @apply text-3xl md:text-4xl font-bold text-dark relative inline-block mb-4;
+    }
+    
+    .section-title h2:after {
+        @apply content-[''] absolute w-14 h-1 bg-primary -bottom-2 left-1/2 -translate-x-1/2;
+    }
+}

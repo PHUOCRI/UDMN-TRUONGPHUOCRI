@@ -1,0 +1,129 @@
+/* Icon Fix CSS - Ensure Font Awesome icons display properly */
+
+/* Ensure Font Awesome fonts are loaded */
+@font-face {
+    font-family: "Font Awesome 6 Free";
+    font-style: normal;
+    font-weight: 900;
+    font-display: block;
+    src: url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.woff2") format("woff2"),
+         url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.woff") format("woff"),
+         url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Font Awesome 6 Brands";
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.woff2") format("woff2"),
+         url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.woff") format("woff"),
+         url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.ttf") format("truetype");
+}
+
+/* Ensure all Font Awesome icons use the correct font family */
+.fas, .far, .fal, .fad, .fab {
+    font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands" !important;
+    font-weight: 900;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.fab {
+    font-family: "Font Awesome 6 Brands" !important;
+    font-weight: 400;
+}
+
+/* Specific icon fixes */
+.fa-phone-alt:before {
+    content: "\f879";
+}
+
+.fa-envelope:before {
+    content: "\f0e0";
+}
+
+.fa-search:before {
+    content: "\f002";
+}
+
+.fa-shopping-bag:before {
+    content: "\f290";
+}
+
+.fa-times:before {
+    content: "\f00d";
+}
+
+.fa-compass:before {
+    content: "\f14e";
+}
+
+.fa-play:before {
+    content: "\f04b";
+}
+
+.fa-shield-alt:before {
+    content: "\f3ed";
+}
+
+.fa-headset:before {
+    content: "\f590";
+}
+
+.fa-map-marked-alt:before {
+    content: "\f5a0";
+}
+
+.fa-hand-holding-usd:before {
+    content: "\f4c0";
+}
+
+.fa-star:before {
+    content: "\f005";
+}
+
+/* Social media icons */
+.fa-facebook-f:before {
+    content: "\f39e";
+}
+
+.fa-instagram:before {
+    content: "\f16d";
+}
+
+.fa-youtube:before {
+    content: "\f167";
+}
+
+.fa-tiktok:before {
+    content: "\e07b";
+}
+
+/* Fallback for missing icons - show a placeholder */
+.fas:not([class*="fa-"]):before,
+.far:not([class*="fa-"]):before,
+.fal:not([class*="fa-"]):before,
+.fad:not([class*="fa-"]):before,
+.fab:not([class*="fa-"]):before {
+    content: "?";
+    color: #ccc;
+}
+
+/* Ensure icons are visible */
+.contact-item i,
+.social-link i,
+.header-actions i,
+.btn-hero i,
+.feature-icon i,
+.testimonial-item i {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    text-align: center;
+    vertical-align: middle;
+}

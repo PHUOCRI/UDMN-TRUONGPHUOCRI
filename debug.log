@@ -1,0 +1,788 @@
+[12-Sep-2025 08:58:16 UTC] Automatic updates starting...
+[12-Sep-2025 08:58:17 UTC]   Automatic plugin updates starting...
+[12-Sep-2025 08:58:17 UTC]   Automatic plugin updates complete.
+[12-Sep-2025 08:58:18 UTC] Automatic updates complete.
+[13-Sep-2025 06:30:18 UTC] PHP Warning:  wp_update_plugins(): Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[13-Sep-2025 06:30:29 UTC] PHP Warning:  wp_update_themes(): Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[13-Sep-2025 06:30:40 UTC] PHP Warning:  wp_version_check(): Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[13-Sep-2025 06:30:40 UTC] Automatic updates starting...
+[13-Sep-2025 06:30:40 UTC]   Automatic plugin updates starting...
+[13-Sep-2025 06:30:40 UTC]   Automatic plugin updates complete.
+[13-Sep-2025 06:30:40 UTC] Automatic updates complete.
+[13-Sep-2025 06:30:50 UTC] PHP Warning:  wp_update_plugins(): Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[13-Sep-2025 06:31:13 UTC] PHP Warning:  wp_version_check(): Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[13-Sep-2025 06:31:23 UTC] PHP Warning:  wp_update_themes(): Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[13-Sep-2025 06:31:34 UTC] PHP Warning:  wp_update_plugins(): Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[13-Sep-2025 07:06:47 UTC] PHP Warning:  wp_update_plugins(): Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[13-Sep-2025 07:06:58 UTC] PHP Warning:  wp_update_themes(): Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[13-Sep-2025 07:07:21 UTC] Automatic updates starting...
+[13-Sep-2025 07:07:21 UTC]   Automatic plugin updates starting...
+[13-Sep-2025 07:07:21 UTC]   Automatic plugin updates complete.
+[13-Sep-2025 07:07:21 UTC] Automatic updates complete.
+[13-Sep-2025 07:14:05 UTC] PHP Warning:  plugins_api(): Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[13-Sep-2025 08:59:18 UTC] PHP Warning:  get_core_checksums(): Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[13-Sep-2025 08:59:51 UTC] PHP Warning:  wp_version_check(): Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[13-Sep-2025 08:59:55 UTC] Automatic updates starting...
+[13-Sep-2025 09:00:05 UTC] PHP Warning:  wp_update_plugins(): Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[13-Sep-2025 09:00:17 UTC]   Automatic plugin updates starting...
+[13-Sep-2025 09:00:17 UTC]   Automatic plugin updates complete.
+[13-Sep-2025 09:00:27 UTC] PHP Warning:  wp_update_themes(): Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[13-Sep-2025 09:00:31 UTC] Automatic updates complete.
+[13-Sep-2025 09:00:41 UTC] PHP Warning:  wp_update_plugins(): Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[13-Sep-2025 09:00:53 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\src\Transport\Curl.php on line 510
+[13-Sep-2025 09:27:36 UTC] PHP Warning:  wp_update_plugins(): Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[14-Sep-2025 12:24:41 UTC] Automatic updates starting...
+[14-Sep-2025 12:24:43 UTC]   Automatic plugin updates starting...
+[14-Sep-2025 12:24:43 UTC]   Automatic plugin updates complete.
+[14-Sep-2025 12:24:43 UTC] Automatic updates complete.
+[16-Sep-2025 01:14:13 UTC] Automatic updates starting...
+[16-Sep-2025 01:14:13 UTC]   Automatic plugin updates starting...
+[16-Sep-2025 01:14:13 UTC]   Automatic plugin updates complete.
+[16-Sep-2025 01:14:14 UTC] Automatic updates complete.
+[16-Sep-2025 05:11:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "do_shortcode" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:167
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\front-page.php(6): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 167
+[16-Sep-2025 05:11:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "do_shortcode" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:167
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\index.php(2): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 167
+[16-Sep-2025 05:11:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "do_shortcode" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:167
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\index.php(2): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 167
+[16-Sep-2025 05:11:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "do_shortcode" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:167
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\front-page.php(6): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 167
+[16-Sep-2025 05:11:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "do_shortcode" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:167
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\index.php(2): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 167
+[16-Sep-2025 05:11:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "do_shortcode" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:167
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\index.php(2): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 167
+[16-Sep-2025 05:12:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "do_shortcode" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:167
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\front-page.php(6): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 167
+[16-Sep-2025 05:12:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "do_shortcode" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:167
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\index.php(2): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 167
+[16-Sep-2025 05:12:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "do_shortcode" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:167
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\index.php(2): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 167
+[16-Sep-2025 05:12:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "do_shortcode" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:167
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\index.php(2): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 167
+[16-Sep-2025 05:12:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "do_shortcode" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:167
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\front-page.php(6): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 167
+[16-Sep-2025 05:12:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "do_shortcode" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:167
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\index.php(2): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 167
+[16-Sep-2025 05:12:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "do_shortcode" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:167
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\index.php(2): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 167
+[16-Sep-2025 23:50:10 UTC] Automatic updates starting...
+[16-Sep-2025 23:50:11 UTC]   Automatic plugin updates starting...
+[16-Sep-2025 23:50:11 UTC]   Automatic plugin updates complete.
+[16-Sep-2025 23:50:12 UTC] Automatic updates complete.
+[17-Sep-2025 00:20:08 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:20:08 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:20:08 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:20:08 UTC] PHP Fatal error:  Uncaught TypeError: preg_match(): Argument #2 ($subject) must be of type string, array given in C:\xampp\htdocs\wordpress\wp-includes\formatting.php:1596
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(1596): preg_match('/[\\x80-\\xff]/', Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(2221): remove_accents(Array)
+#2 [internal function]: sanitize_title(Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(561): array_map('sanitize_title', Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(308): WP_Term_Query->get_terms()
+#5 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(644): WP_Term_Query->query(Array)
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(567): WP_Tax_Query->transform_query(Array, 'term_id')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(395): WP_Tax_Query->clean_query(Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(325): WP_Tax_Query->get_sql_for_clause(Array, Array)
+#9 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(275): WP_Tax_Query->get_sql_for_query(Array)
+#10 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(251): WP_Tax_Query->get_sql_clauses()
+#11 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(2298): WP_Tax_Query->get_sql('wp_posts', 'ID')
+#12 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(3949): WP_Query->get_posts()
+#13 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(4081): WP_Query->query(Array)
+#14 C:\xampp\htdocs\wordpress\wp-content\themes\doan\front-page.php(130): WP_Query->__construct(Array)
+#15 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#17 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\formatting.php on line 1596
+[17-Sep-2025 00:20:10 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:20:10 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:20:10 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:20:10 UTC] PHP Fatal error:  Uncaught TypeError: preg_match(): Argument #2 ($subject) must be of type string, array given in C:\xampp\htdocs\wordpress\wp-includes\formatting.php:1596
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(1596): preg_match('/[\\x80-\\xff]/', Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(2221): remove_accents(Array)
+#2 [internal function]: sanitize_title(Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(561): array_map('sanitize_title', Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(308): WP_Term_Query->get_terms()
+#5 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(644): WP_Term_Query->query(Array)
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(567): WP_Tax_Query->transform_query(Array, 'term_id')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(395): WP_Tax_Query->clean_query(Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(325): WP_Tax_Query->get_sql_for_clause(Array, Array)
+#9 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(275): WP_Tax_Query->get_sql_for_query(Array)
+#10 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(251): WP_Tax_Query->get_sql_clauses()
+#11 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(2298): WP_Tax_Query->get_sql('wp_posts', 'ID')
+#12 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(3949): WP_Query->get_posts()
+#13 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(4081): WP_Query->query(Array)
+#14 C:\xampp\htdocs\wordpress\wp-content\themes\doan\front-page.php(130): WP_Query->__construct(Array)
+#15 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#17 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\formatting.php on line 1596
+[17-Sep-2025 00:20:13 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:20:13 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:20:13 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:20:13 UTC] PHP Fatal error:  Uncaught TypeError: preg_match(): Argument #2 ($subject) must be of type string, array given in C:\xampp\htdocs\wordpress\wp-includes\formatting.php:1596
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(1596): preg_match('/[\\x80-\\xff]/', Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(2221): remove_accents(Array)
+#2 [internal function]: sanitize_title(Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(561): array_map('sanitize_title', Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(308): WP_Term_Query->get_terms()
+#5 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(644): WP_Term_Query->query(Array)
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(567): WP_Tax_Query->transform_query(Array, 'term_id')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(395): WP_Tax_Query->clean_query(Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(325): WP_Tax_Query->get_sql_for_clause(Array, Array)
+#9 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(275): WP_Tax_Query->get_sql_for_query(Array)
+#10 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(251): WP_Tax_Query->get_sql_clauses()
+#11 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(2298): WP_Tax_Query->get_sql('wp_posts', 'ID')
+#12 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(3949): WP_Query->get_posts()
+#13 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(4081): WP_Query->query(Array)
+#14 C:\xampp\htdocs\wordpress\wp-content\themes\doan\front-page.php(130): WP_Query->__construct(Array)
+#15 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#17 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\formatting.php on line 1596
+[17-Sep-2025 00:21:19 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:21:19 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:21:19 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:21:19 UTC] PHP Fatal error:  Uncaught TypeError: preg_match(): Argument #2 ($subject) must be of type string, array given in C:\xampp\htdocs\wordpress\wp-includes\formatting.php:1596
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(1596): preg_match('/[\\x80-\\xff]/', Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(2221): remove_accents(Array)
+#2 [internal function]: sanitize_title(Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(561): array_map('sanitize_title', Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(308): WP_Term_Query->get_terms()
+#5 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(644): WP_Term_Query->query(Array)
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(567): WP_Tax_Query->transform_query(Array, 'term_id')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(395): WP_Tax_Query->clean_query(Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(325): WP_Tax_Query->get_sql_for_clause(Array, Array)
+#9 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(275): WP_Tax_Query->get_sql_for_query(Array)
+#10 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(251): WP_Tax_Query->get_sql_clauses()
+#11 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(2298): WP_Tax_Query->get_sql('wp_posts', 'ID')
+#12 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(3949): WP_Query->get_posts()
+#13 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(4081): WP_Query->query(Array)
+#14 C:\xampp\htdocs\wordpress\wp-content\themes\doan\front-page.php(130): WP_Query->__construct(Array)
+#15 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#17 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\formatting.php on line 1596
+[17-Sep-2025 00:21:41 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:21:41 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:21:41 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:21:41 UTC] PHP Fatal error:  Uncaught TypeError: preg_match(): Argument #2 ($subject) must be of type string, array given in C:\xampp\htdocs\wordpress\wp-includes\formatting.php:1596
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(1596): preg_match('/[\\x80-\\xff]/', Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(2221): remove_accents(Array)
+#2 [internal function]: sanitize_title(Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(561): array_map('sanitize_title', Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(308): WP_Term_Query->get_terms()
+#5 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(644): WP_Term_Query->query(Array)
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(567): WP_Tax_Query->transform_query(Array, 'term_id')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(395): WP_Tax_Query->clean_query(Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(325): WP_Tax_Query->get_sql_for_clause(Array, Array)
+#9 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(275): WP_Tax_Query->get_sql_for_query(Array)
+#10 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(251): WP_Tax_Query->get_sql_clauses()
+#11 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(2298): WP_Tax_Query->get_sql('wp_posts', 'ID')
+#12 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(3949): WP_Query->get_posts()
+#13 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(4081): WP_Query->query(Array)
+#14 C:\xampp\htdocs\wordpress\wp-content\themes\doan\front-page.php(130): WP_Query->__construct(Array)
+#15 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#17 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\formatting.php on line 1596
+[17-Sep-2025 00:21:59 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:21:59 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:21:59 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:21:59 UTC] PHP Fatal error:  Uncaught TypeError: preg_match(): Argument #2 ($subject) must be of type string, array given in C:\xampp\htdocs\wordpress\wp-includes\formatting.php:1596
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(1596): preg_match('/[\\x80-\\xff]/', Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(2221): remove_accents(Array)
+#2 [internal function]: sanitize_title(Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(561): array_map('sanitize_title', Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(308): WP_Term_Query->get_terms()
+#5 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(644): WP_Term_Query->query(Array)
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(567): WP_Tax_Query->transform_query(Array, 'term_id')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(395): WP_Tax_Query->clean_query(Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(325): WP_Tax_Query->get_sql_for_clause(Array, Array)
+#9 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(275): WP_Tax_Query->get_sql_for_query(Array)
+#10 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(251): WP_Tax_Query->get_sql_clauses()
+#11 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(2298): WP_Tax_Query->get_sql('wp_posts', 'ID')
+#12 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(3949): WP_Query->get_posts()
+#13 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(4081): WP_Query->query(Array)
+#14 C:\xampp\htdocs\wordpress\wp-content\themes\doan\front-page.php(130): WP_Query->__construct(Array)
+#15 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#17 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\formatting.php on line 1596
+[17-Sep-2025 00:22:22 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:22:22 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:22:22 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:22:22 UTC] PHP Fatal error:  Uncaught TypeError: preg_match(): Argument #2 ($subject) must be of type string, array given in C:\xampp\htdocs\wordpress\wp-includes\formatting.php:1596
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(1596): preg_match('/[\\x80-\\xff]/', Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(2221): remove_accents(Array)
+#2 [internal function]: sanitize_title(Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(561): array_map('sanitize_title', Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(308): WP_Term_Query->get_terms()
+#5 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(644): WP_Term_Query->query(Array)
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(567): WP_Tax_Query->transform_query(Array, 'term_id')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(395): WP_Tax_Query->clean_query(Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(325): WP_Tax_Query->get_sql_for_clause(Array, Array)
+#9 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(275): WP_Tax_Query->get_sql_for_query(Array)
+#10 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(251): WP_Tax_Query->get_sql_clauses()
+#11 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(2298): WP_Tax_Query->get_sql('wp_posts', 'ID')
+#12 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(3949): WP_Query->get_posts()
+#13 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(4081): WP_Query->query(Array)
+#14 C:\xampp\htdocs\wordpress\wp-content\themes\doan\front-page.php(130): WP_Query->__construct(Array)
+#15 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#17 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\formatting.php on line 1596
+[17-Sep-2025 00:23:03 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:23:03 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:23:03 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:23:03 UTC] PHP Fatal error:  Uncaught TypeError: preg_match(): Argument #2 ($subject) must be of type string, array given in C:\xampp\htdocs\wordpress\wp-includes\formatting.php:1596
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(1596): preg_match('/[\\x80-\\xff]/', Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(2221): remove_accents(Array)
+#2 [internal function]: sanitize_title(Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(561): array_map('sanitize_title', Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(308): WP_Term_Query->get_terms()
+#5 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(644): WP_Term_Query->query(Array)
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(567): WP_Tax_Query->transform_query(Array, 'term_id')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(395): WP_Tax_Query->clean_query(Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(325): WP_Tax_Query->get_sql_for_clause(Array, Array)
+#9 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(275): WP_Tax_Query->get_sql_for_query(Array)
+#10 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(251): WP_Tax_Query->get_sql_clauses()
+#11 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(2298): WP_Tax_Query->get_sql('wp_posts', 'ID')
+#12 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(3949): WP_Query->get_posts()
+#13 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(4081): WP_Query->query(Array)
+#14 C:\xampp\htdocs\wordpress\wp-content\themes\doan\front-page.php(130): WP_Query->__construct(Array)
+#15 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#17 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\formatting.php on line 1596
+[17-Sep-2025 00:25:52 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:25:52 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:25:52 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:25:52 UTC] PHP Fatal error:  Uncaught TypeError: preg_match(): Argument #2 ($subject) must be of type string, array given in C:\xampp\htdocs\wordpress\wp-includes\formatting.php:1596
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(1596): preg_match('/[\\x80-\\xff]/', Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(2221): remove_accents(Array)
+#2 [internal function]: sanitize_title(Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(561): array_map('sanitize_title', Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(308): WP_Term_Query->get_terms()
+#5 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(644): WP_Term_Query->query(Array)
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(567): WP_Tax_Query->transform_query(Array, 'term_id')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(395): WP_Tax_Query->clean_query(Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(325): WP_Tax_Query->get_sql_for_clause(Array, Array)
+#9 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(275): WP_Tax_Query->get_sql_for_query(Array)
+#10 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(251): WP_Tax_Query->get_sql_clauses()
+#11 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(2298): WP_Tax_Query->get_sql('wp_posts', 'ID')
+#12 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(3949): WP_Query->get_posts()
+#13 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(4081): WP_Query->query(Array)
+#14 C:\xampp\htdocs\wordpress\wp-content\themes\doan\front-page.php(130): WP_Query->__construct(Array)
+#15 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#17 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\formatting.php on line 1596
+[17-Sep-2025 00:27:48 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:27:48 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:27:48 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:27:48 UTC] PHP Fatal error:  Uncaught TypeError: preg_match(): Argument #2 ($subject) must be of type string, array given in C:\xampp\htdocs\wordpress\wp-includes\formatting.php:1596
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(1596): preg_match('/[\\x80-\\xff]/', Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(2221): remove_accents(Array)
+#2 [internal function]: sanitize_title(Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(561): array_map('sanitize_title', Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(308): WP_Term_Query->get_terms()
+#5 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(644): WP_Term_Query->query(Array)
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(567): WP_Tax_Query->transform_query(Array, 'term_id')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(395): WP_Tax_Query->clean_query(Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(325): WP_Tax_Query->get_sql_for_clause(Array, Array)
+#9 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(275): WP_Tax_Query->get_sql_for_query(Array)
+#10 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(251): WP_Tax_Query->get_sql_clauses()
+#11 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(2298): WP_Tax_Query->get_sql('wp_posts', 'ID')
+#12 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(3949): WP_Query->get_posts()
+#13 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(4081): WP_Query->query(Array)
+#14 C:\xampp\htdocs\wordpress\wp-content\themes\doan\front-page.php(130): WP_Query->__construct(Array)
+#15 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#17 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\formatting.php on line 1596
+[17-Sep-2025 00:28:08 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:28:08 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:28:08 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:28:08 UTC] PHP Fatal error:  Uncaught TypeError: preg_match(): Argument #2 ($subject) must be of type string, array given in C:\xampp\htdocs\wordpress\wp-includes\formatting.php:1596
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(1596): preg_match('/[\\x80-\\xff]/', Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(2221): remove_accents(Array)
+#2 [internal function]: sanitize_title(Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(561): array_map('sanitize_title', Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(308): WP_Term_Query->get_terms()
+#5 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(644): WP_Term_Query->query(Array)
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(567): WP_Tax_Query->transform_query(Array, 'term_id')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(395): WP_Tax_Query->clean_query(Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(325): WP_Tax_Query->get_sql_for_clause(Array, Array)
+#9 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(275): WP_Tax_Query->get_sql_for_query(Array)
+#10 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(251): WP_Tax_Query->get_sql_clauses()
+#11 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(2298): WP_Tax_Query->get_sql('wp_posts', 'ID')
+#12 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(3949): WP_Query->get_posts()
+#13 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(4081): WP_Query->query(Array)
+#14 C:\xampp\htdocs\wordpress\wp-content\themes\doan\front-page.php(130): WP_Query->__construct(Array)
+#15 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#17 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\formatting.php on line 1596
+[17-Sep-2025 00:30:07 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:30:07 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:30:07 UTC] PHP Warning:  Array to string conversion in C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php on line 561
+[17-Sep-2025 00:30:07 UTC] PHP Fatal error:  Uncaught TypeError: preg_match(): Argument #2 ($subject) must be of type string, array given in C:\xampp\htdocs\wordpress\wp-includes\formatting.php:1596
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(1596): preg_match('/[\\x80-\\xff]/', Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\formatting.php(2221): remove_accents(Array)
+#2 [internal function]: sanitize_title(Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(561): array_map('sanitize_title', Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\class-wp-term-query.php(308): WP_Term_Query->get_terms()
+#5 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(644): WP_Term_Query->query(Array)
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(567): WP_Tax_Query->transform_query(Array, 'term_id')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(395): WP_Tax_Query->clean_query(Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(325): WP_Tax_Query->get_sql_for_clause(Array, Array)
+#9 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(275): WP_Tax_Query->get_sql_for_query(Array)
+#10 C:\xampp\htdocs\wordpress\wp-includes\class-wp-tax-query.php(251): WP_Tax_Query->get_sql_clauses()
+#11 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(2298): WP_Tax_Query->get_sql('wp_posts', 'ID')
+#12 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(3949): WP_Query->get_posts()
+#13 C:\xampp\htdocs\wordpress\wp-includes\class-wp-query.php(4081): WP_Query->query(Array)
+#14 C:\xampp\htdocs\wordpress\wp-content\themes\doan\front-page.php(130): WP_Query->__construct(Array)
+#15 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#17 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\formatting.php on line 1596
+[17-Sep-2025 15:16:49 UTC] Automatic updates starting...
+[17-Sep-2025 15:16:50 UTC]   Automatic plugin updates starting...
+[17-Sep-2025 15:16:50 UTC]   Automatic plugin updates complete.
+[17-Sep-2025 15:16:51 UTC] Automatic updates complete.
+[18-Sep-2025 03:39:25 UTC] Automatic updates starting...
+[18-Sep-2025 03:39:26 UTC]   Automatic plugin updates starting...
+[18-Sep-2025 03:39:26 UTC]   Automatic plugin updates complete.
+[18-Sep-2025 03:39:27 UTC] Automatic updates complete.
+[18-Sep-2025 05:58:49 UTC] Automatic updates starting...
+[18-Sep-2025 05:58:52 UTC]   Automatic plugin updates starting...
+[18-Sep-2025 05:58:52 UTC]   Automatic plugin updates complete.
+[18-Sep-2025 05:58:55 UTC] Automatic updates complete.
+[18-Sep-2025 09:24:52 UTC] Automatic updates starting...
+[18-Sep-2025 09:24:53 UTC]   Automatic plugin updates starting...
+[18-Sep-2025 09:24:53 UTC]   Automatic plugin updates complete.
+[18-Sep-2025 09:24:54 UTC] Automatic updates complete.
+[19-Sep-2025 00:17:19 UTC] Automatic updates starting...
+[19-Sep-2025 00:17:21 UTC]   Automatic plugin updates starting...
+[19-Sep-2025 00:17:21 UTC]   Automatic plugin updates complete.
+[19-Sep-2025 00:17:21 UTC] Automatic updates complete.
+[19-Sep-2025 09:15:28 UTC] Automatic updates starting...
+[19-Sep-2025 09:15:30 UTC]   Automatic plugin updates starting...
+[19-Sep-2025 09:15:30 UTC]   Automatic plugin updates complete.
+[19-Sep-2025 09:15:31 UTC] Automatic updates complete.
+[19-Sep-2025 11:25:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "is_page" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:162
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\page-lich-khoi-hanh.php(8): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 162
+[19-Sep-2025 11:25:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "is_page" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:162
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\index.php(2): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 162
+[19-Sep-2025 11:25:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "is_page" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:162
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\index.php(2): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 162
+[19-Sep-2025 11:25:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "is_page" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:162
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\front-page.php(6): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 162
+[19-Sep-2025 11:25:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "is_page" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:162
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\index.php(2): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 162
+[19-Sep-2025 11:25:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "is_page" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:162
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\index.php(2): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 162
+[19-Sep-2025 11:26:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "is_page" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:162
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\front-page.php(6): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 162
+[19-Sep-2025 11:26:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "is_page" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:162
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\index.php(2): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 162
+[19-Sep-2025 11:26:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "is_page" in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php:162
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(810): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\doan\index.php(2): get_header()
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\doan\header.php on line 162
+[19-Sep-2025 14:42:40 UTC] [Loco.debug] "Error extracting package.json: Invalid JSON" in src/gettext/Extraction.php:125
+[19-Sep-2025 14:53:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:53:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\script-loader.php:3015) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 14:54:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\class-wp-styles.php:290) in C:\xampp\htdocs\wordpress\wp-content\themes\doan\functions.php on line 482
+[19-Sep-2025 15:02:08 UTC] PHP Warning:  plugins_api(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[19-Sep-2025 15:02:44 UTC] PHP Warning:  wp_version_check(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[19-Sep-2025 15:03:25 UTC] PHP Warning:  wp_update_plugins(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[19-Sep-2025 23:24:18 UTC] Automatic updates starting...
+[19-Sep-2025 23:24:19 UTC]   Automatic plugin updates starting...
+[19-Sep-2025 23:24:19 UTC]   Automatic plugin updates complete.
+[19-Sep-2025 23:24:20 UTC] Automatic updates complete.
+[20-Sep-2025 00:04:24 UTC] PHP Warning:  wp_update_plugins(): Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 00:05:04 UTC] PHP Warning:  wp_version_check(): Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 00:05:11 UTC] PHP Warning:  wp_update_plugins(): Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 00:49:59 UTC] PHP Warning:  wp_update_plugins(): Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 00:59:35 UTC] PHP Warning:  wp_update_plugins(): Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "e_display_conditions_trigger". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "e_display_conditions". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_motion_fx_scrolling". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_translateY_effect". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_translateY_direction". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_translateY_speed". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_translateY_affectedRange". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_translateX_effect". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_translateX_direction". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_translateX_speed". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_translateX_affectedRange". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_opacity_effect". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_opacity_direction". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_opacity_level". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_opacity_range". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_blur_effect". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_blur_direction". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_blur_level". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_blur_range". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_rotateZ_effect". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_rotateZ_direction". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_rotateZ_speed". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_rotateZ_affectedRange". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_scale_effect". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_scale_direction". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_scale_speed". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_scale_range". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_transform_origin_x". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_transform_origin_y". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_devices". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_range". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_motion_fx_mouse". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_mouseTrack_effect". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_mouseTrack_direction". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_mouseTrack_speed". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_tilt_effect". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_tilt_direction". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "motion_fx_tilt_speed". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "handle_motion_fx_asset_loading". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "sticky". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "sticky_on". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "sticky_offset". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "sticky_offset_tablet". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "sticky_offset_mobile". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "sticky_effects_offset". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "sticky_effects_offset_tablet". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "sticky_effects_offset_mobile". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "sticky_anchor_link_offset". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "sticky_anchor_link_offset_tablet". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "sticky_anchor_link_offset_mobile". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "anchor_offset_description". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "sticky_parent". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Notice:  Function Elementor\Controls_Manager::add_control_to_stack được gọi <strong>không chính xác</strong>. Cannot redeclare control with same name "sticky_divider". Vui lòng xem <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Hướng dẫn Debug trong WordPress</a> để biết thêm thông tin. (Thông điệp này đã được thêm vào trong phiên bản 1.0.0.) in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6121
+[20-Sep-2025 01:01:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\wordpress\wp-includes\functions.php:6121) in C:\xampp\htdocs\wordpress\wp-admin\admin-header.php on line 14
+[20-Sep-2025 01:03:26 UTC] PHP Fatal error:  Cannot declare class JV_Social_Icons, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\plugins\jv-social-icons\jv-social-icons.php on line 12
+[20-Sep-2025 01:07:53 UTC] PHP Fatal error:  Cannot declare class JV_Social_Icons, because the name is already in use in C:\xampp\htdocs\wordpress\wp-content\plugins\jv-social-icons\jv-social-icons.php on line 12
+[20-Sep-2025 01:23:21 UTC] PHP Warning:  file_get_contents(C:\xampp\htdocs\wordpress/wp-content/plugins/jv-social-icons/jv-social-icons.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6900

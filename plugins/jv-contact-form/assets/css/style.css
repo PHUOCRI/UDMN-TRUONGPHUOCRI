@@ -1,0 +1,11 @@
+.jvcf-wrapper { border: 1px solid #eee; padding: 20px; border-radius: 8px; background: #fff; }
+.jvcf-title { margin-top: 0; font-size: 1.4rem; }
+.jvcf-row { margin-bottom: 12px; }
+.jvcf-row label { display: block; margin-bottom: 6px; font-weight: 600; }
+.jvcf-row input, .jvcf-row textarea {
+  width: 100%; padding: 10px; border: 1px solid #dcdcdc; border-radius: 6px; box-sizing: border-box;
+}
+.jvcf-actions { display: flex; align-items: center; gap: 12px; }
+.jvcf-submit { background: #ff6b4a; color: #fff; border: none; padding: 10px 16px; border-radius: 6px; cursor: pointer; }
+.jvcf-submit:disabled { opacity: .6; cursor: not-allowed; }
+.jvcf-status { font-size: .95rem; }

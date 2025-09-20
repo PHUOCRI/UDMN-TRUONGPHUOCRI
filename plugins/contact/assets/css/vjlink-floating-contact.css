@@ -1,0 +1,111 @@
+/* VJLink Floating Contact Button Styles */
+.vjlink-floating-contact {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 9999;
+    font-family: 'Inter', Arial, sans-serif;
+}
+
+.vjlink-floating-contact.vjlink-position-left {
+    right: auto;
+    left: 30px;
+}
+
+.vjlink-contact-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: flex-end;
+    transition: all 0.3s ease;
+}
+
+.vjlink-contact-phone,
+.vjlink-contact-whatsapp,
+.vjlink-contact-zalo {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 50px;
+    font-weight: 600;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    white-space: nowrap;
+}
+
+.vjlink-contact-phone {
+    background-color: #333;
+    margin-right: 0;
+}
+
+.vjlink-contact-whatsapp {
+    background-color: #25D366; /* WhatsApp green */
+}
+
+.vjlink-contact-zalo {
+    background-color: #0068ff; /* Zalo blue */
+}
+
+.vjlink-contact-phone:hover,
+.vjlink-contact-whatsapp:hover,
+.vjlink-contact-zalo:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+}
+
+.vjlink-contact-phone i,
+.vjlink-contact-whatsapp i,
+.vjlink-contact-zalo i {
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.vjlink-phone-number,
+.vjlink-whatsapp-text,
+.vjlink-zalo-text {
+    font-size: 14px;
+}
+
+/* Animation */
+@keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-5px); }
+    100% { transform: translateY(0px); }
+}
+
+.vjlink-contact-whatsapp {
+    animation: float 3s ease-in-out infinite;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .vjlink-floating-contact {
+        bottom: 20px;
+        right: 15px;
+    }
+    
+    .vjlink-floating-contact.vjlink-position-left {
+        left: 15px;
+    }
+    
+    .vjlink-contact-phone,
+    .vjlink-contact-whatsapp,
+    .vjlink-contact-zalo {
+        padding: 10px 15px;
+        font-size: 13px;
+    }
+    
+    .vjlink-phone-number,
+    .vjlink-whatsapp-text,
+    .vjlink-zalo-text {
+        font-size: 13px;
+    }
+    
+    .vjlink-contact-phone i,
+    .vjlink-contact-whatsapp i,
+    .vjlink-contact-zalo i {
+        font-size: 18px;
+    }
+}

@@ -1,0 +1,86 @@
+/* Placeholder Images for Travel Hero Collage */
+
+.collage-1 {
+    background: linear-gradient(135deg, #3498db 0%, #2980b9 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    text-align: center;
+    box-shadow: 0 8px 25px rgba(52, 152, 219, 0.3);
+}
+
+.collage-1::before {
+    content: "👥\A Students";
+    white-space: pre;
+}
+
+.collage-2 {
+    background: linear-gradient(135deg, #e67e22 0%, #d35400 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 11px;
+    text-align: center;
+    box-shadow: 0 8px 25px rgba(230, 126, 34, 0.3);
+}
+
+.collage-2::before {
+    content: "🏫\A Classroom";
+    white-space: pre;
+}
+
+.collage-3 {
+    background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+    box-shadow: 0 8px 25px rgba(44, 62, 80, 0.3);
+}
+
+.collage-3::before {
+    content: "🏯\A Japan\A Castle";
+    white-space: pre;
+}
+
+.collage-4 {
+    background: linear-gradient(135deg, #f39c12 0%, #e67e22 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+    text-align: center;
+    box-shadow: 0 8px 25px rgba(243, 156, 18, 0.3);
+}
+
+.collage-4::before {
+    content: "🚣\A Traditional\A Boat";
+    white-space: pre;
+}
+
+/* Override when actual images are loaded */
+.collage-item img {
+    display: none;
+}
+
+.collage-item:has(img) {
+    background: none;
+}
+
+.collage-item:has(img)::before {
+    display: none;
+}
+
+.collage-item:has(img) img {
+    display: block;
+}
