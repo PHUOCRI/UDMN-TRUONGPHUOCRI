@@ -1,0 +1,727 @@
+/* Tour pages unified styling
+   Targets:
+   - /tour-7-ngay-6-dem
+   - /tour-hue-mua-thu-2025
+   - /tour-6-ngay-5-dem
+   - /tour-5-ngay-4-dem
+
+   We rely on the body classes added from functions.php: page-slug-{slug}
+*/
+
+/* Helper: combine all four selectors */
+body.page-slug-tour-7-ngay-6-dem,
+body.page-slug-tour-hue-mua-thu-2025,
+body.page-slug-tour-6-ngay-5-dem,
+body.page-slug-tour-5-ngay-4-dem {
+  --tour-accent: var(--primary-color);
+  --tour-dark: #111827;
+  --tour-muted: #6b7280;
+}
+
+/* Container max width for readability */
+body.page-slug-tour-7-ngay-6-dem .site-content > .container,
+body.page-slug-tour-hue-mua-thu-2025 .site-content > .container,
+body.page-slug-tour-6-ngay-5-dem .site-content > .container,
+body.page-slug-tour-5-ngay-4-dem .site-content > .container {
+  max-width: 1100px;
+}
+
+/* Page Title Section */
+body.page-slug-tour-7-ngay-6-dem .entry-title,
+body.page-slug-tour-hue-mua-thu-2025 .entry-title,
+body.page-slug-tour-6-ngay-5-dem .entry-title,
+body.page-slug-tour-5-ngay-4-dem .entry-title {
+  text-align: center;
+  font-weight: 900;
+  color: var(--tour-dark);
+  letter-spacing: .2px;
+  margin: 24px 0 18px;
+}
+
+/* Underline accent */
+body.page-slug-tour-7-ngay-6-dem .entry-title::after,
+body.page-slug-tour-hue-mua-thu-2025 .entry-title::after,
+body.page-slug-tour-6-ngay-5-dem .entry-title::after,
+body.page-slug-tour-5-ngay-4-dem .entry-title::after {
+  content: '';
+  display: block;
+  width: 64px;
+  height: 4px;
+  border-radius: 999px;
+  margin: 10px auto 0;
+  background: linear-gradient(90deg, var(--tour-accent), var(--accent-color));
+}
+
+/* Intro/Hero image spacing */
+body.page-slug-tour-7-ngay-6-dem .entry-content > p:first-child img,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content > p:first-child img,
+body.page-slug-tour-6-ngay-5-dem .entry-content > p:first-child img,
+body.page-slug-tour-5-ngay-4-dem .entry-content > p:first-child img {
+  border-radius: 16px;
+  box-shadow: 0 18px 40px rgba(0,0,0,.12);
+}
+
+/* Content typography and spacing */
+body.page-slug-tour-7-ngay-6-dem .entry-content,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content,
+body.page-slug-tour-6-ngay-5-dem .entry-content,
+body.page-slug-tour-5-ngay-4-dem .entry-content {
+  font-size: 1.02rem;
+  line-height: 1.75;
+  color: #374151;
+}
+
+body.page-slug-tour-7-ngay-6-dem .entry-content h2,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content h2,
+body.page-slug-tour-6-ngay-5-dem .entry-content h2,
+body.page-slug-tour-5-ngay-4-dem .entry-content h2 {
+  margin: 26px 0 12px;
+  font-weight: 800;
+  color: var(--tour-dark);
+}
+
+body.page-slug-tour-7-ngay-6-dem .entry-content h3,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content h3,
+body.page-slug-tour-6-ngay-5-dem .entry-content h3,
+body.page-slug-tour-5-ngay-4-dem .entry-content h3 {
+  margin: 22px 0 10px;
+  font-weight: 800;
+  color: var(--tour-dark);
+}
+
+/* NEW: paragraphs spacing and lists indentation */
+body.page-slug-tour-7-ngay-6-dem .entry-content > p,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content > p,
+body.page-slug-tour-6-ngay-5-dem .entry-content > p,
+body.page-slug-tour-5-ngay-4-dem .entry-content > p {
+  margin: 12px 0 16px;
+}
+body.page-slug-tour-7-ngay-6-dem .entry-content ul,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content ul,
+body.page-slug-tour-6-ngay-5-dem .entry-content ul,
+body.page-slug-tour-5-ngay-4-dem .entry-content ul {
+  padding-left: 1.2rem;
+}
+
+/* Lists: clearer bullets */
+body.page-slug-tour-7-ngay-6-dem .entry-content ul li,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content ul li,
+body.page-slug-tour-6-ngay-5-dem .entry-content ul li,
+body.page-slug-tour-5-ngay-4-dem .entry-content ul li {
+  margin: 6px 0;
+}
+
+/* NEW: Single image blocks - center, rounded, shadow */
+body.page-slug-tour-7-ngay-6-dem .entry-content img,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content img,
+body.page-slug-tour-6-ngay-5-dem .entry-content img,
+body.page-slug-tour-5-ngay-4-dem .entry-content img {
+  display: block;
+  margin: 10px auto 20px;
+  border-radius: 12px;
+  box-shadow: 0 12px 30px rgba(0,0,0,.10);
+  height: auto;
+}
+
+/* NEW: WordPress image block wrappers */
+body.page-slug-tour-7-ngay-6-dem .entry-content .wp-block-image,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content .wp-block-image,
+body.page-slug-tour-6-ngay-5-dem .entry-content .wp-block-image,
+body.page-slug-tour-5-ngay-4-dem .entry-content .wp-block-image {
+  margin: 12px auto 22px;
+}
+body.page-slug-tour-7-ngay-6-dem .entry-content .wp-block-image img,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content .wp-block-image img,
+body.page-slug-tour-6-ngay-5-dem .entry-content .wp-block-image img,
+body.page-slug-tour-5-ngay-4-dem .entry-content .wp-block-image img {
+  width: 100%;
+  height: auto;
+}
+
+/* NEW: Gallery block - neat grid */
+body.page-slug-tour-7-ngay-6-dem .entry-content .wp-block-gallery,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content .wp-block-gallery,
+body.page-slug-tour-6-ngay-5-dem .entry-content .wp-block-gallery,
+body.page-slug-tour-5-ngay-4-dem .entry-content .wp-block-gallery {
+  gap: 12px;
+}
+body.page-slug-tour-7-ngay-6-dem .entry-content .wp-block-gallery .blocks-gallery-item img,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content .wp-block-gallery .blocks-gallery-item img,
+body.page-slug-tour-6-ngay-5-dem .entry-content .wp-block-gallery .blocks-gallery-item img,
+body.page-slug-tour-5-ngay-4-dem .entry-content .wp-block-gallery .blocks-gallery-item img {
+  border-radius: 10px;
+  box-shadow: 0 8px 22px rgba(0,0,0,.08);
+}
+
+/* Tables inside content */
+body.page-slug-tour-7-ngay-6-dem .entry-content table,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content table,
+body.page-slug-tour-6-ngay-5-dem .entry-content table,
+body.page-slug-tour-5-ngay-4-dem .entry-content table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #eef0f3;
+  border-radius: 12px;
+  overflow: hidden;
+}
+body.page-slug-tour-7-ngay-6-dem .entry-content table th,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content table th,
+body.page-slug-tour-6-ngay-5-dem .entry-content table th,
+body.page-slug-tour-5-ngay-4-dem .entry-content table th {
+  background: #f8f9fa;
+  font-weight: 800;
+}
+body.page-slug-tour-7-ngay-6-dem .entry-content table th,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content table th,
+body.page-slug-tour-6-ngay-5-dem .entry-content table th,
+body.page-slug-tour-5-ngay-4-dem .entry-content table th,
+body.page-slug-tour-7-ngay-6-dem .entry-content table td,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content table td,
+body.page-slug-tour-6-ngay-5-dem .entry-content table td,
+body.page-slug-tour-5-ngay-4-dem .entry-content table td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #eef0f3;
+}
+
+/* Callout/notice boxes if present */
+body.page-slug-tour-7-ngay-6-dem .entry-content .notice,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content .notice,
+body.page-slug-tour-6-ngay-5-dem .entry-content .notice,
+body.page-slug-tour-5-ngay-4-dem .entry-content .notice {
+  background: rgba(231,76,60,.06);
+  border: 1px solid rgba(231,76,60,.22);
+  color: #7f1d1d;
+  padding: 12px 14px;
+  border-radius: 12px;
+  margin: 12px 0 16px;
+}
+
+/* Info badges (if used inside content) */
+body.page-slug-tour-7-ngay-6-dem .entry-content .badge,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content .badge,
+body.page-slug-tour-6-ngay-5-dem .entry-content .badge,
+body.page-slug-tour-5-ngay-4-dem .entry-content .badge {
+  background: rgba(231,76,60,.1);
+  color: var(--tour-accent);
+  border: 1px solid rgba(231,76,60,.3);
+  font-weight: 800;
+  border-radius: 999px;
+}
+
+/* Card blocks inside content (tables, day-by-day, etc.) */
+body.page-slug-tour-7-ngay-6-dem .entry-content .card,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content .card,
+body.page-slug-tour-6-ngay-5-dem .entry-content .card,
+body.page-slug-tour-5-ngay-4-dem .entry-content .card {
+  border: 1px solid #eef0f3;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0,0,0,.06);
+  overflow: hidden;
+}
+
+/* Images within content */
+body.page-slug-tour-7-ngay-6-dem .entry-content img,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content img,
+body.page-slug-tour-6-ngay-5-dem .entry-content img,
+body.page-slug-tour-5-ngay-4-dem .entry-content img {
+  border-radius: 12px;
+}
+
+/* CTA buttons in content */
+body.page-slug-tour-7-ngay-6-dem .entry-content a.button,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content a.button,
+body.page-slug-tour-6-ngay-5-dem .entry-content a.button,
+body.page-slug-tour-5-ngay-4-dem .entry-content a.button,
+body.page-slug-tour-7-ngay-6-dem .entry-content .btn,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content .btn,
+body.page-slug-tour-6-ngay-5-dem .entry-content .btn,
+body.page-slug-tour-5-ngay-4-dem .entry-content .btn {
+  background: var(--tour-accent);
+  border: 0;
+  border-radius: 12px;
+  font-weight: 800;
+  padding: 10px 16px;
+}
+
+body.page-slug-tour-7-ngay-6-dem .entry-content a.button:hover,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content a.button:hover,
+body.page-slug-tour-6-ngay-5-dem .entry-content a.button:hover,
+body.page-slug-tour-5-ngay-4-dem .entry-content a.button:hover,
+body.page-slug-tour-7-ngay-6-dem .entry-content .btn:hover,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content .btn:hover,
+body.page-slug-tour-6-ngay-5-dem .entry-content .btn:hover,
+body.page-slug-tour-5-ngay-4-dem .entry-content .btn:hover {
+  background: #c0392b;
+  color: #fff;
+}
+
+/* Utilities: tighten top gap under header */
+body.page-slug-tour-7-ngay-6-dem #content,
+body.page-slug-tour-hue-mua-thu-2025 #content,
+body.page-slug-tour-6-ngay-5-dem #content,
+body.page-slug-tour-5-ngay-4-dem #content { padding-top: 20px; }
+
+/* Responsive tweaks */
+@media (max-width: 768px){
+  body.page-slug-tour-7-ngay-6-dem .entry-title,
+  body.page-slug-tour-hue-mua-thu-2025 .entry-title,
+  body.page-slug-tour-6-ngay-5-dem .entry-title,
+  body.page-slug-tour-5-ngay-4-dem .entry-title { font-size: clamp(22px, 5vw, 28px); }
+
+  body.page-slug-tour-7-ngay-6-dem .entry-content,
+  body.page-slug-tour-hue-mua-thu-2025 .entry-content,
+  body.page-slug-tour-6-ngay-5-dem .entry-content,
+  body.page-slug-tour-5-ngay-4-dem .entry-content { font-size: 1rem; }
+}
+
+/* === Image Grid: 3 columns on desktop, 2 on tablet, 1 on mobile === */
+/* Gutenberg image blocks as direct children of entry-content (no special alignment) */
+body.page-slug-tour-7-ngay-6-dem .entry-content > .wp-block-image:not(.alignfull):not(.alignwide):not(.alignleft):not(.alignright),
+body.page-slug-tour-hue-mua-thu-2025 .entry-content > .wp-block-image:not(.alignfull):not(.alignwide):not(.alignleft):not(.alignright),
+body.page-slug-tour-6-ngay-5-dem .entry-content > .wp-block-image:not(.alignfull):not(.alignwide):not(.alignleft):not(.alignright),
+body.page-slug-tour-5-ngay-4-dem .entry-content > .wp-block-image:not(.alignfull):not(.alignwide):not(.alignleft):not(.alignright) {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 10px 16px;
+  width: calc(33.333% - 20px);
+}
+body.page-slug-tour-7-ngay-6-dem .entry-content > .wp-block-image img,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content > .wp-block-image img,
+body.page-slug-tour-6-ngay-5-dem .entry-content > .wp-block-image img,
+body.page-slug-tour-5-ngay-4-dem .entry-content > .wp-block-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 10px 24px rgba(0,0,0,.10);
+}
+
+/* Fallback: paragraphs that only contain a single image */
+body.page-slug-tour-7-ngay-6-dem .entry-content > p:has(> img:only-child),
+body.page-slug-tour-hue-mua-thu-2025 .entry-content > p:has(> img:only-child),
+body.page-slug-tour-6-ngay-5-dem .entry-content > p:has(> img:only-child),
+body.page-slug-tour-5-ngay-4-dem .entry-content > p:has(> img:only-child) {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 10px 16px;
+  width: calc(33.333% - 20px);
+}
+body.page-slug-tour-7-ngay-6-dem .entry-content > p:has(> img:only-child) > img,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content > p:has(> img:only-child) > img,
+body.page-slug-tour-6-ngay-5-dem .entry-content > p:has(> img:only-child) > img,
+body.page-slug-tour-5-ngay-4-dem .entry-content > p:has(> img:only-child) > img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 10px 24px rgba(0,0,0,.10);
+}
+
+/* Tablet: 2 columns */
+@media (max-width: 991px) {
+  body.page-slug-tour-7-ngay-6-dem .entry-content > .wp-block-image:not(.alignfull):not(.alignwide):not(.alignleft):not(.alignright),
+  body.page-slug-tour-hue-mua-thu-2025 .entry-content > .wp-block-image:not(.alignfull):not(.alignwide):not(.alignleft):not(.alignright),
+  body.page-slug-tour-6-ngay-5-dem .entry-content > .wp-block-image:not(.alignfull):not(.alignwide):not(.alignleft):not(.alignright),
+  body.page-slug-tour-5-ngay-4-dem .entry-content > .wp-block-image:not(.alignfull):not(.alignwide):not(.alignleft):not(.alignright),
+  body.page-slug-tour-7-ngay-6-dem .entry-content > p:has(> img:only-child),
+  body.page-slug-tour-hue-mua-thu-2025 .entry-content > p:has(> img:only-child),
+  body.page-slug-tour-6-ngay-5-dem .entry-content > p:has(> img:only-child),
+  body.page-slug-tour-5-ngay-4-dem .entry-content > p:has(> img:only-child) {
+    width: calc(50% - 20px);
+  }
+}
+
+/* Mobile: 1 column */
+@media (max-width: 576px) {
+  body.page-slug-tour-7-ngay-6-dem .entry-content > .wp-block-image:not(.alignfull):not(.alignwide):not(.alignleft):not(.alignright),
+  body.page-slug-tour-hue-mua-thu-2025 .entry-content > .wp-block-image:not(.alignfull):not(.alignwide):not(.alignleft):not(.alignright),
+  body.page-slug-tour-6-ngay-5-dem .entry-content > .wp-block-image:not(.alignfull):not(.alignwide):not(.alignleft):not(.alignright),
+  body.page-slug-tour-5-ngay-4-dem .entry-content > .wp-block-image:not(.alignfull):not(.alignwide):not(.alignleft):not(.alignright),
+  body.page-slug-tour-7-ngay-6-dem .entry-content > p:has(> img:only-child),
+  body.page-slug-tour-hue-mua-thu-2025 .entry-content > p:has(> img:only-child),
+  body.page-slug-tour-6-ngay-5-dem .entry-content > p:has(> img:only-child),
+  body.page-slug-tour-5-ngay-4-dem .entry-content > p:has(> img:only-child) {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+/* === Mosaic layout for the first image set + hover white overlay === */
+/* Scope only to the 4 tour pages */
+body.page-slug-tour-7-ngay-6-dem .entry-content > .wp-block-image,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content > .wp-block-image,
+body.page-slug-tour-6-ngay-5-dem .entry-content > .wp-block-image,
+body.page-slug-tour-5-ngay-4-dem .entry-content > .wp-block-image {
+  position: relative;
+  overflow: hidden;
+  border-radius: 14px; /* slightly larger radius for a softer look */
+}
+
+/* Smooth image zoom */
+body.page-slug-tour-7-ngay-6-dem .entry-content > .wp-block-image img,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content > .wp-block-image img,
+body.page-slug-tour-6-ngay-5-dem .entry-content > .wp-block-image img,
+body.page-slug-tour-5-ngay-4-dem .entry-content > .wp-block-image img {
+  transition: transform .45s ease, filter .3s ease;
+  will-change: transform;
+  object-fit: cover;
+}
+
+/* Elegant white veil overlay on hover */
+body.page-slug-tour-7-ngay-6-dem .entry-content > .wp-block-image::after,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content > .wp-block-image::after,
+body.page-slug-tour-6-ngay-5-dem .entry-content > .wp-block-image::after,
+body.page-slug-tour-5-ngay-4-dem .entry-content > .wp-block-image::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(120% 120% at 50% 50%, rgba(255,255,255,.65) 0%, rgba(255,255,255,.35) 35%, rgba(255,255,255,0) 70%);
+  opacity: 0;
+  transform: scale(1.05);
+  transition: opacity .28s ease, transform .35s ease;
+  pointer-events: none;
+}
+
+body.page-slug-tour-7-ngay-6-dem .entry-content > .wp-block-image:hover::after,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content > .wp-block-image:hover::after,
+body.page-slug-tour-6-ngay-5-dem .entry-content > .wp-block-image:hover::after,
+body.page-slug-tour-5-ngay-4-dem .entry-content > .wp-block-image:hover::after {
+  opacity: 1;
+  transform: scale(1);
+}
+
+body.page-slug-tour-7-ngay-6-dem .entry-content > .wp-block-image:hover img,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content > .wp-block-image:hover img,
+body.page-slug-tour-6-ngay-5-dem .entry-content > .wp-block-image:hover img,
+body.page-slug-tour-5-ngay-4-dem .entry-content > .wp-block-image:hover img {
+  transform: scale(1.035);
+}
+
+/* Mosaic sizing for the first 5 images to emulate the screenshot layout
+   - 1st and 5th images: tall cards (portrait)
+   - 2nd & 3rd: smaller landscape
+   - 4th: wider landscape
+   Works together with the existing 3-column inline-block rules above. */
+body.page-slug-tour-7-ngay-6-dem .entry-content > .wp-block-image:nth-of-type(1) img,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content > .wp-block-image:nth-of-type(1) img,
+body.page-slug-tour-6-ngay-5-dem .entry-content > .wp-block-image:nth-of-type(1) img,
+body.page-slug-tour-5-ngay-4-dem .entry-content > .wp-block-image:nth-of-type(1) img {
+  aspect-ratio: 3 / 4;
+}
+
+body.page-slug-tour-7-ngay-6-dem .entry-content > .wp-block-image:nth-of-type(2) img,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content > .wp-block-image:nth-of-type(2) img,
+body.page-slug-tour-6-ngay-5-dem .entry-content > .wp-block-image:nth-of-type(2) img,
+body.page-slug-tour-5-ngay-4-dem .entry-content > .wp-block-image:nth-of-type(2) img,
+body.page-slug-tour-7-ngay-6-dem .entry-content > .wp-block-image:nth-of-type(3) img,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content > .wp-block-image:nth-of-type(3) img,
+body.page-slug-tour-6-ngay-5-dem .entry-content > .wp-block-image:nth-of-type(3) img,
+body.page-slug-tour-5-ngay-4-dem .entry-content > .wp-block-image:nth-of-type(3) img {
+  aspect-ratio: 16 / 9;
+}
+
+body.page-slug-tour-7-ngay-6-dem .entry-content > .wp-block-image:nth-of-type(4) img,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content > .wp-block-image:nth-of-type(4) img,
+body.page-slug-tour-6-ngay-5-dem .entry-content > .wp-block-image:nth-of-type(4) img,
+body.page-slug-tour-5-ngay-4-dem .entry-content > .wp-block-image:nth-of-type(4) img {
+  aspect-ratio: 16 / 10;
+}
+
+body.page-slug-tour-7-ngay-6-dem .entry-content > .wp-block-image:nth-of-type(5) img,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content > .wp-block-image:nth-of-type(5) img,
+body.page-slug-tour-6-ngay-5-dem .entry-content > .wp-block-image:nth-of-type(5) img,
+body.page-slug-tour-5-ngay-4-dem .entry-content > .wp-block-image:nth-of-type(5) img {
+  aspect-ratio: 3 / 4;
+}
+
+/* Make sure paragraph-wrapped single images follow the same behavior */
+body.page-slug-tour-7-ngay-6-dem .entry-content > p:has(> img:only-child),
+body.page-slug-tour-hue-mua-thu-2025 .entry-content > p:has(> img:only-child),
+body.page-slug-tour-6-ngay-5-dem .entry-content > p:has(> img:only-child),
+body.page-slug-tour-5-ngay-4-dem .entry-content > p:has(> img:only-child) {
+  position: relative;
+  overflow: hidden;
+  border-radius: 14px;
+}
+
+body.page-slug-tour-7-ngay-6-dem .entry-content > p:has(> img:only-child)::after,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content > p:has(> img:only-child)::after,
+body.page-slug-tour-6-ngay-5-dem .entry-content > p:has(> img:only-child)::after,
+body.page-slug-tour-5-ngay-4-dem .entry-content > p:has(> img:only-child)::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(120% 120% at 50% 50%, rgba(255,255,255,.65) 0%, rgba(255,255,255,.35) 35%, rgba(255,255,255,0) 70%);
+  opacity: 0; transform: scale(1.05);
+  transition: opacity .28s ease, transform .35s ease; pointer-events: none;
+}
+
+body.page-slug-tour-7-ngay-6-dem .entry-content > p:has(> img:only-child):hover::after,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content > p:has(> img:only-child):hover::after,
+body.page-slug-tour-6-ngay-5-dem .entry-content > p:has(> img:only-child):hover::after,
+body.page-slug-tour-5-ngay-4-dem .entry-content > p:has(> img:only-child):hover::after {
+  opacity: 1; transform: scale(1);
+}
+
+body.page-slug-tour-7-ngay-6-dem .entry-content > p:has(> img:only-child) > img,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content > p:has(> img:only-child) > img,
+body.page-slug-tour-6-ngay-5-dem .entry-content > p:has(> img:only-child) > img,
+body.page-slug-tour-5-ngay-4-dem .entry-content > p:has(> img:only-child) > img {
+  transition: transform .45s ease, filter .3s ease; object-fit: cover;
+}
+
+body.page-slug-tour-7-ngay-6-dem .entry-content > p:has(> img:only-child):hover > img,
+body.page-slug-tour-hue-mua-thu-2025 .entry-content > p:has(> img:only-child):hover > img,
+body.page-slug-tour-6-ngay-5-dem .entry-content > p:has(> img:only-child):hover > img,
+body.page-slug-tour-5-ngay-4-dem .entry-content > p:has(> img:only-child):hover > img {
+  transform: scale(1.035);
+}
+
+/* Tablet & Mobile: keep current responsive columns; aspect ratios still apply */
+@media (max-width: 991px) {
+  body.page-slug-tour-7-ngay-6-dem .entry-content > .wp-block-image:nth-of-type(1) img,
+  body.page-slug-tour-hue-mua-thu-2025 .entry-content > .wp-block-image:nth-of-type(1) img,
+  body.page-slug-tour-6-ngay-5-dem .entry-content > .wp-block-image:nth-of-type(1) img,
+  body.page-slug-tour-5-ngay-4-dem .entry-content > .wp-block-image:nth-of-type(1) img,
+  body.page-slug-tour-7-ngay-6-dem .entry-content > .wp-block-image:nth-of-type(5) img,
+  body.page-slug-tour-hue-mua-thu-2025 .entry-content > .wp-block-image:nth-of-type(5) img,
+  body.page-slug-tour-6-ngay-5-dem .entry-content > .wp-block-image:nth-of-type(5) img,
+  body.page-slug-tour-5-ngay-4-dem .entry-content > .wp-block-image:nth-of-type(5) img {
+    aspect-ratio: 4 / 5; /* slightly less tall for tablets */
+  }
+}
+
+@media (max-width: 576px) {
+  /* On mobile, let images be full width and comfortable height */
+  body.page-slug-tour-7-ngay-6-dem .entry-content > .wp-block-image:nth-of-type(n) img,
+  body.page-slug-tour-hue-mua-thu-2025 .entry-content > .wp-block-image:nth-of-type(n) img,
+  body.page-slug-tour-6-ngay-5-dem .entry-content > .wp-block-image:nth-of-type(n) img,
+  body.page-slug-tour-5-ngay-4-dem .entry-content > .wp-block-image:nth-of-type(n) img {
+    aspect-ratio: auto; /* respect natural ratio on small screens */
+  }
+}
+
+/* === Custom template gallery (page-tour-*.php) === */
+/* Grid container */
+body.page-slug-tour-7-ngay-6-dem .tour-gallery-grid,
+body.page-slug-tour-hue-mua-thu-2025 .tour-gallery-grid,
+body.page-slug-tour-6-ngay-5-dem .tour-gallery-grid,
+body.page-slug-tour-5-ngay-4-dem .tour-gallery-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-rows: 160px;
+  gap: 16px;
+}
+
+/* Items base */
+body.page-slug-tour-7-ngay-6-dem .tour-gallery-grid .gallery-item,
+body.page-slug-tour-hue-mua-thu-2025 .tour-gallery-grid .gallery-item,
+body.page-slug-tour-6-ngay-5-dem .tour-gallery-grid .gallery-item,
+body.page-slug-tour-5-ngay-4-dem .tour-gallery-grid .gallery-item {
+  position: relative;
+  margin: 0;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+/* Link frame + overlay */
+body.page-slug-tour-7-ngay-6-dem .tour-gallery-grid .gallery-link,
+body.page-slug-tour-hue-mua-thu-2025 .tour-gallery-grid .gallery-link,
+body.page-slug-tour-6-ngay-5-dem .tour-gallery-grid .gallery-link,
+body.page-slug-tour-5-ngay-4-dem .tour-gallery-grid .gallery-link {
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+body.page-slug-tour-7-ngay-6-dem .tour-gallery-grid .gallery-link::after,
+body.page-slug-tour-hue-mua-thu-2025 .tour-gallery-grid .gallery-link::after,
+body.page-slug-tour-6-ngay-5-dem .tour-gallery-grid .gallery-link::after,
+body.page-slug-tour-5-ngay-4-dem .tour-gallery-grid .gallery-link::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(120% 120% at 50% 50%, rgba(255,255,255,.65) 0%, rgba(255,255,255,.35) 35%, rgba(255,255,255,0) 70%);
+  opacity: 0;
+  transform: scale(1.05);
+  transition: opacity .28s ease, transform .35s ease;
+  pointer-events: none;
+}
+
+/* Image */
+body.page-slug-tour-7-ngay-6-dem .tour-gallery-grid .gallery-img,
+body.page-slug-tour-hue-mua-thu-2025 .tour-gallery-grid .gallery-img,
+body.page-slug-tour-6-ngay-5-dem .tour-gallery-grid .gallery-img,
+body.page-slug-tour-5-ngay-4-dem .tour-gallery-grid .gallery-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform .45s ease, filter .3s ease;
+}
+
+/* Hover effects */
+body.page-slug-tour-7-ngay-6-dem .tour-gallery-grid .gallery-link:hover::after,
+body.page-slug-tour-hue-mua-thu-2025 .tour-gallery-grid .gallery-link:hover::after,
+body.page-slug-tour-6-ngay-5-dem .tour-gallery-grid .gallery-link:hover::after,
+body.page-slug-tour-5-ngay-4-dem .tour-gallery-grid .gallery-link:hover::after { opacity: 1; transform: scale(1); }
+
+body.page-slug-tour-7-ngay-6-dem .tour-gallery-grid .gallery-link:hover .gallery-img,
+body.page-slug-tour-hue-mua-thu-2025 .tour-gallery-grid .gallery-link:hover .gallery-img,
+body.page-slug-tour-6-ngay-5-dem .tour-gallery-grid .gallery-link:hover .gallery-img,
+body.page-slug-tour-5-ngay-4-dem .tour-gallery-grid .gallery-link:hover .gallery-img { transform: scale(1.035); }
+
+/* Mosaic positions for the first 5 images (desktop) */
+body.page-slug-tour-7-ngay-6-dem .tour-gallery-grid .gallery-item:nth-child(1),
+body.page-slug-tour-hue-mua-thu-2025 .tour-gallery-grid .gallery-item:nth-child(1),
+body.page-slug-tour-6-ngay-5-dem .tour-gallery-grid .gallery-item:nth-child(1),
+body.page-slug-tour-5-ngay-4-dem .tour-gallery-grid .gallery-item:nth-child(1) {
+  grid-column: 1 / 2;
+  grid-row: span 3; /* tall portrait */
+}
+
+body.page-slug-tour-7-ngay-6-dem .tour-gallery-grid .gallery-item:nth-child(2),
+body.page-slug-tour-hue-mua-thu-2025 .tour-gallery-grid .gallery-item:nth-child(2),
+body.page-slug-tour-6-ngay-5-dem .tour-gallery-grid .gallery-item:nth-child(2),
+body.page-slug-tour-5-ngay-4-dem .tour-gallery-grid .gallery-item:nth-child(2) {
+  grid-column: 2 / 3;
+  grid-row: span 1; /* small landscape */
+}
+
+body.page-slug-tour-7-ngay-6-dem .tour-gallery-grid .gallery-item:nth-child(3),
+body.page-slug-tour-hue-mua-thu-2025 .tour-gallery-grid .gallery-item:nth-child(3),
+body.page-slug-tour-6-ngay-5-dem .tour-gallery-grid .gallery-item:nth-child(3),
+body.page-slug-tour-5-ngay-4-dem .tour-gallery-grid .gallery-item:nth-child(3) {
+  grid-column: 3 / 4;
+  grid-row: span 1; /* small landscape */
+}
+
+body.page-slug-tour-7-ngay-6-dem .tour-gallery-grid .gallery-item:nth-child(4),
+body.page-slug-tour-hue-mua-thu-2025 .tour-gallery-grid .gallery-item:nth-child(4),
+body.page-slug-tour-6-ngay-5-dem .tour-gallery-grid .gallery-item:nth-child(4),
+body.page-slug-tour-5-ngay-4-dem .tour-gallery-grid .gallery-item:nth-child(4) {
+  grid-column: 2 / 4;
+  grid-row: span 1; /* wide landscape */
+}
+
+body.page-slug-tour-7-ngay-6-dem .tour-gallery-grid .gallery-item:nth-child(5),
+body.page-slug-tour-hue-mua-thu-2025 .tour-gallery-grid .gallery-item:nth-child(5),
+body.page-slug-tour-6-ngay-5-dem .tour-gallery-grid .gallery-item:nth-child(5),
+body.page-slug-tour-5-ngay-4-dem .tour-gallery-grid .gallery-item:nth-child(5) {
+  grid-column: 2 / 3 !important; /* override previous column to fill the gap */
+  grid-row: span 2 !important;
+}
+
+/* Responsive tweaks: tablet -> 2 columns */
+@media (max-width: 991px) {
+  body.page-slug-tour-7-ngay-6-dem .tour-gallery-grid,
+  body.page-slug-tour-hue-mua-thu-2025 .tour-gallery-grid,
+  body.page-slug-tour-6-ngay-5-dem .tour-gallery-grid,
+  body.page-slug-tour-5-ngay-4-dem .tour-gallery-grid {
+    grid-template-columns: 1fr 1fr;
+    grid-auto-rows: 160px;
+  }
+  /* reset spans for readability */
+  body.page-slug-tour-7-ngay-6-dem .tour-gallery-grid .gallery-item:nth-child(-n+5),
+  body.page-slug-tour-hue-mua-thu-2025 .tour-gallery-grid .gallery-item:nth-child(-n+5),
+  body.page-slug-tour-6-ngay-5-dem .tour-gallery-grid .gallery-item:nth-child(-n+5),
+  body.page-slug-tour-5-ngay-4-dem .tour-gallery-grid .gallery-item:nth-child(-n+5) {
+    grid-column: auto;
+    grid-row: span 1;
+  }
+}
+
+/* Mobile -> 1 column */
+@media (max-width: 576px) {
+  body.page-slug-tour-7-ngay-6-dem .tour-gallery-grid,
+  body.page-slug-tour-hue-mua-thu-2025 .tour-gallery-grid,
+  body.page-slug-tour-6-ngay-5-dem .tour-gallery-grid,
+  body.page-slug-tour-5-ngay-4-dem .tour-gallery-grid {
+    grid-template-columns: 1fr;
+    grid-auto-rows: auto;
+  }
+}
+
+/* === Fix mosaic gaps: enable dense packing and reposition 5th item === */
+body.page-slug-tour-7-ngay-6-dem .tour-gallery-grid,
+body.page-slug-tour-hue-mua-thu-2025 .tour-gallery-grid,
+body.page-slug-tour-6-ngay-5-dem .tour-gallery-grid,
+body.page-slug-tour-5-ngay-4-dem .tour-gallery-grid {
+  grid-auto-flow: dense; /* allow backfilling to reduce white gaps */
+}
+
+/* Move the 5th item to column 2 to fill the leftover space under item 4 */
+body.page-slug-tour-7-ngay-6-dem .tour-gallery-grid .gallery-item:nth-child(5),
+body.page-slug-tour-hue-mua-thu-2025 .tour-gallery-grid .gallery-item:nth-child(5),
+body.page-slug-tour-6-ngay-5-dem .tour-gallery-grid .gallery-item:nth-child(5),
+body.page-slug-tour-5-ngay-4-dem .tour-gallery-grid .gallery-item:nth-child(5) {
+  grid-column: 2 / 3 !important; /* override previous column to fill the gap */
+  grid-row: span 2 !important;
+}
+
+/* === Tour Gallery Page Styling === */
+.tour-gallery {
+  padding: 60px 0 80px;
+  background: #f8f9fa;
+}
+
+.tour-gallery .section-header {
+  text-align: center;
+  margin-bottom: 50px;
+  padding: 0 20px;
+}
+
+.tour-gallery .section-title {
+  font-size: clamp(32px, 5vw, 42px);
+  font-weight: 900;
+  color: #2c3e50;
+  margin: 0;
+  position: relative;
+  display: inline-block;
+  padding-bottom: 20px;
+}
+
+.tour-gallery .section-title::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80px;
+  height: 4px;
+  background: linear-gradient(90deg, var(--primary-color), var(--primary-light));
+  border-radius: 2px;
+}
+
+/* Lightbox hover effect */
+body.page-slug-tour-7-ngay-6-dem .tour-gallery-grid .hover-sweep,
+body.page-slug-tour-hue-mua-thu-2025 .tour-gallery-grid .hover-sweep,
+body.page-slug-tour-6-ngay-5-dem .tour-gallery-grid .hover-sweep,
+body.page-slug-tour-5-ngay-4-dem .tour-gallery-grid .hover-sweep {
+  position: absolute;
+  inset: 0;
+  background: rgba(30, 136, 229, 0.1);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+}
+
+body.page-slug-tour-7-ngay-6-dem .tour-gallery-grid .gallery-link:hover .hover-sweep,
+body.page-slug-tour-hue-mua-thu-2025 .tour-gallery-grid .gallery-link:hover .hover-sweep,
+body.page-slug-tour-6-ngay-5-dem .tour-gallery-grid .gallery-link:hover .hover-sweep,
+body.page-slug-tour-5-ngay-4-dem .tour-gallery-grid .gallery-link:hover .hover-sweep {
+  opacity: 1;
+}
+
+@media (max-width: 768px) {
+  .tour-gallery {
+    padding: 40px 0 60px;
+  }
+  
+  .tour-gallery .section-header {
+    margin-bottom: 35px;
+  }
+}

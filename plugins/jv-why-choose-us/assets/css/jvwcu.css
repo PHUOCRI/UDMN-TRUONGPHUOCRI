@@ -1,0 +1,27 @@
+.jvwcu-section{padding:48px 0;text-align:center}
+.jvwcu-heading{font-size:32px;margin:0 0 8px;font-weight:700}
+.jvwcu-heading-underline{display:inline-block;width:80px;height:4px;background:#2ea3f2;border-radius:2px;margin:8px auto 24px}
+.jvwcu-grid{display:grid;gap:20px;align-items:stretch;justify-items:stretch}
+.jvwcu-section.cols-2 .jvwcu-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.jvwcu-section.cols-3 .jvwcu-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+.jvwcu-section.cols-4 .jvwcu-grid{grid-template-columns:repeat(4,minmax(0,1fr))}
+.jvwcu-card{display:block;background:#fff;border-radius:14px;padding:24px;text-decoration:none;color:inherit;box-shadow:0 10px 25px rgba(0,0,0,.05);transition:transform .2s ease, box-shadow .2s ease}
+.jvwcu-card:hover{transform:translateY(-3px);box-shadow:0 16px 32px rgba(0,0,0,.08)}
+.jvwcu-icon{width:72px;height:72px;margin:0 auto 12px;border-radius:50%;background:#eef6ff;display:flex;align-items:center;justify-content:center;overflow:hidden}
+.jvwcu-icon img{max-width:48px;max-height:48px}
+.jvwcu-icon-placeholder{font-size:28px;color:#2ea3f2}
+.jvwcu-title{font-size:18px;margin:8px 0 6px}
+.jvwcu-subtitle{margin:0 0 6px;color:#555}
+.jvwcu-desc{margin:0;color:#777}
+.jvwcu-empty{opacity:.7}
+
+@media (max-width: 1024px){
+  .jvwcu-section.cols-4 .jvwcu-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+}
+@media (max-width: 768px){
+  .jvwcu-section.cols-4 .jvwcu-grid,
+  .jvwcu-section.cols-3 .jvwcu-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width: 480px){
+  .jvwcu-grid{grid-template-columns:1fr}
+}
